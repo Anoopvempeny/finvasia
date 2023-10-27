@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@quantiply/finvasia-nodejs-sdk": "^1.2.1"
+  }
+}
